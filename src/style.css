@@ -1,0 +1,70 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.font-sergue{
+    font-family: 'Segoe UI', sans-serif;
+    font-weight: normal;
+}
+.font-serguebold{
+    font-family: 'Segoe UI', sans-serif;
+    font-weight: bold;
+}
+.font-hind{
+    font-family: 'Hind', sans-serif;
+    font-weight: normal;
+}
+.font-hindbold{
+    font-family: 'Hind', sans-serif;
+    font-weight: bold;
+}
+.font-perpetua{
+    font-family: 'Perpetua', sans-serif;
+    font-weight: bold;
+}
+.font-oswald{
+    font-family: 'Oswald', sans-serif;
+    font-weight: normal;
+}
+.font-nunito{
+    font-family: 'Nunito', sans-serif;
+    font-weight: normal;
+}
+.font-opensas{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+}
+.font-opensas-bold{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+.font-opensas-semibold{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 900;
+}
+.bg-gray-valueseed{
+    background-color: #fcfcfc ;
+}
+.btn-border{
+    border-color: #AE9019;
+}
+.btn-schoolsupport{
+    background-color: #11233A;
+}
+.bg-gray-custom1{
+    background-color: #252525;
+}
+.bg-gray-custom2{
+    background-color: #333333;
+}
+.text-custom1{
+    color: #666666;
+}
+.text-custom2{
+    color: #999999;
+}
+.icon-color{
+    color:#48BB78
+}
